@@ -30,14 +30,14 @@ We used below mention techniques to remove null values
 
 The below image show the box plot after removal of outliers
 
+![Screenshot (451)](https://user-images.githubusercontent.com/78978975/183017787-b1c079dc-8b42-4b70-ac01-b143c87abc6c.png)
+
 
 ## Exploratory Data Analysis
 
 To learn more about the datasets and to obtain insights into business understanding, we undertook exploratory data analysis.
 
-giflink
-
-
+![eda_gif - Made with Clipchamp (2)](https://user-images.githubusercontent.com/78978975/183017831-0ae90299-286a-47e4-906a-e31ba6d51bea.gif)
 
 
 ## Fitting different models and Tuning the hyperparameters 
@@ -97,9 +97,12 @@ To build an Airline Passenger Reffereal Prediction System and improve Accuracy S
     Values comes in handy for interpretation.
 
 **Lime and Shap values Interpretation Images shown below**
+![model_interpret](https://user-images.githubusercontent.com/78978975/183017913-24694abd-3b2b-4dc9-a774-7cdc3f43dc1c.jpg)
 
 
 **Shap values summary plot**
+![sha](https://user-images.githubusercontent.com/78978975/183017942-895dd767-2bbe-45dd-a0af-f7ee22f715fa.jpg)
+
 
 ## Technical Skills
 
