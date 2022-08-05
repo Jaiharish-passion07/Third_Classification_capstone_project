@@ -106,27 +106,29 @@ To build an Airline Passenger Reffereal Prediction System and improve Accuracy S
 ![sha](https://user-images.githubusercontent.com/78978975/183017942-895dd767-2bbe-45dd-a0af-f7ee22f715fa.jpg)
 
 
-## Notebook
+## Notebook & Datasets
 
 All analysis, Model Building and Interpreation can be viewwill give entire information about the project.
 
 Feel free to use the [**Notebook**](https://github.com/Jaiharish-passion07/Third_Classification_capstone_project/blob/master/Final_Notebook_capstone_Clasification_Project.ipynb)
 
+To get access to Dataset click [**here**](https://github.com/Jaiharish-passion07/Third_Classification_capstone_project/tree/master/Data)
+
 ## Technical Skills
 
-* Data Cleaning 
+* *Data Cleaning* 
 
-* Data Visualization
+* *Data Visualization*
 
-* Outlier Removal
+* *Outlier Removal*
 
-* Encoding Techinques
+* *Encoding Techinques*
 
-* Classifier Model Building 
+* *Classifier Model Building* 
 
-* Hyperparamter Tuning
+* *Hyperparamter Tuning*
 
-* Model Interpretation
+* *Model Interpretation*
 
 
 
